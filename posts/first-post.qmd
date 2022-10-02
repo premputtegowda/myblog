@@ -1,0 +1,17 @@
+---
+jupyter: python3
+---
+
+# This is my first post to test Quarto
+
+---
+title: My First Post
+author: Prem Puttegowda
+date: Oct 2, 2022
+format: 
+    html:
+        code-fold: true
+    
+---
+
+
