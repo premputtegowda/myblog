@@ -1,0 +1,11 @@
+{
+  "hash": "5d7c739172df069a71b8e2552664317a",
+  "result": {
+    "markdown": "---\ntitle: \"My First Post\"\nauthor: \"Prem Puttegowda\"\ndate: \"2022-10-02\"\ncategories: []\n\n---\n\n# Hello\n\nMy name is Prem Puttegowda. My intention here is to blog what I learn, share content in a way that minimizes the struggle and simplifies the learning process for others. Most topics will be basic to start with and I hope to learn and write advanced topics in a way that seems simple and basic. If you find the content useful, please share it with your network.\n\nThank you,\nPrem\n\n",
+    "supporting": [
+      "introduction_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
