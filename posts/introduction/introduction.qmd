@@ -1,15 +1,7 @@
 ---
-jupyter: python3
----
-
-
-
-
----
-title: "My First Post"
+title: "Hello"
 author: "Prem Puttegowda"
 date: "2022-10-02"
-categories: []
 
 ---
     
